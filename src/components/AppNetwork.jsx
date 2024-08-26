@@ -28,7 +28,7 @@ export const AppNetwork = () => {
         alignItems:"center",
         justifyContent:"center",
         height: "100vh",
-        // backgroundImage: "url(https://siaguanta.com/wp-content/uploads/2019/10/redes3.jpg)",
+        backgroundImage: "url(https://siaguanta.com/wp-content/uploads/2019/10/redes3.jpg)",
         }}
        >
       {status ? (
